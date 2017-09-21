@@ -15,4 +15,5 @@ galaxy_info:
       - 7
   galaxy_tags:
     - epel
+    - yum
 dependencies: []
