@@ -1,8 +1,8 @@
 epel_repositories
 =========
 
-Configure epel yum repository.
-The role was copied from the [theforeman/forklift project](https://github.com/theforeman/forklift/tree/master/roles/epel_repositories)
+Configure epel yum repository.</br>
+The role was copied from the [theforeman/forklift project](https://github.com/theforeman/forklift/tree/master/roles/epel_repositories).
 
 Requirements
 ------------
